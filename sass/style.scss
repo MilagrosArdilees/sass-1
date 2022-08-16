@@ -1,0 +1,59 @@
+@import "fuentes";
+@import "generales";
+@import "parrafo";
+@import "variableGlobal";
+
+
+
+
+header{
+    background-color: fuchsia;
+    padding: 8px;
+
+}
+
+ul li{
+    list-style-type: none;
+    display: inline-block;
+}
+
+a{
+    text-decoration: none;
+    color: aliceblue;
+}
+
+h1{
+    color: black;
+    padding: 20px;
+    border: 10px solid black;
+    margin: 80px 40px 80px 40px; 
+    position: sticky;
+    top: 40px;
+
+}
+
+p{
+    color: white;
+    padding: 40px;
+    margin-right: 400px;
+    margin-top: 60px;
+    margin-left: 60px;
+    border: 10px groove blueviolet;
+
+}
+
+
+img{
+    margin-top: 80px;
+    margin-left: 200px;
+    border-radius: 1cm;
+    border: 10px double blueviolet;
+}
+
+footer{
+    padding: 100px;
+    margin-bottom: 0px;
+    margin-top: 200px;
+    background-color:violet;
+}
+
